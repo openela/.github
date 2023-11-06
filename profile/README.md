@@ -27,7 +27,8 @@ throughout the Enterprise Linux lifecycle without limitations.
 |--|--|
 |[branding](https://github.com/openela/branding)|Branding assets|
 |[infrastructure](https://github.com/openela/infrastructure)|Infrastructure-as-Code |
-|[governance](https://github.com/openela/governance)|Governance documentation & issue tracking for OpenELA|
+|[governance](https://github.com/openela/governance)|Governance documentation|
+|[issues](https://github.com/openela/issues)|Issue tracking for OpenELA|
 |[openela.org](https://github.com/openela/openela.org)|Website for OpenELA.org|
 
 
