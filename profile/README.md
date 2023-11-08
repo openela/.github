@@ -22,6 +22,20 @@ throughout the Enterprise Linux lifecycle without limitations.
 
 **[Join OpenELA](https://openela.org/join/)**
 
+## Where's the ~~beef~~ code?
+
+All the OpenELA Source code can be found in one of two places:
+
+* [OpenELA-Main](https://github.com/openela-main)
+* [OpenELA-Contrib](https://github.com/openela-contrib)
+
+In short, `OpenELA-Main` is where the bug-for-bug compatible source code for 
+versions of packages in Enterprise Linux live. On the other hand,
+`OpenELA-Contrib` is the home of divergant or new packages to be added on top
+of EL.
+
+More information about contributing to these repositories can be found in our [contributor guidelines](https://github.com/openela/governance/blob/main/contributors_guidelines.md)
+
 ## Repositories
 |Repository|Description|
 |--|--|
