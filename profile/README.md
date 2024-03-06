@@ -42,6 +42,7 @@ More information about contributing to these repositories can be found in our [c
 |[branding](https://github.com/openela/branding)|Branding assets|
 |[infrastructure](https://github.com/openela/infrastructure)|Infrastructure-as-Code |
 |[governance](https://github.com/openela/governance)|Governance documentation|
+|[openela-documentation(https://github.com/openela/openela-documentation)|OpenELA User Manuals|
 |[issues](https://github.com/openela/issues)|Issue tracking for OpenELA|
 |[openela.org](https://github.com/openela/openela.org)|Website for OpenELA.org|
 
