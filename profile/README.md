@@ -32,7 +32,8 @@ All the OpenELA Source code can be found in one of two places:
 In short, `OpenELA-Main` is where the bug-for-bug compatible source code for 
 versions of packages in Enterprise Linux live. On the other hand,
 `OpenELA-Contrib` is the home of divergant or new packages to be added on top
-of EL.
+of EL. [Mothership](https://github.com/openela/mothership) is responsible for 
+importing RPMs and attesting to their authenticity.
 
 More information about contributing to these repositories can be found in our [contributor guidelines](https://github.com/openela/governance/blob/main/contributors_guidelines.md)
 
@@ -46,6 +47,7 @@ More information about contributing to these repositories can be found in our [c
 |[issues](https://github.com/openela/issues)|Issue tracking for OpenELA|
 |[openela.org](https://github.com/openela/openela.org)|Website for OpenELA.org|
 |[kernel-lts](https://github.com/openela/kernel-lts)| OpenELA LTS Kernel Source |
+|[mothership](https://github.com/openela/mothership)| Mothership - RPM processor and attestation tool |
 
 ## Important Information
 
