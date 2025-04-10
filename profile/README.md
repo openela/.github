@@ -48,6 +48,8 @@ More information about contributing to these repositories can be found in our [c
 |[openela.org](https://github.com/openela/openela.org)|Website for OpenELA.org|
 |[kernel-lts](https://github.com/openela/kernel-lts)| OpenELA LTS Kernel Source |
 |[mothership](https://github.com/openela/mothership)| Mothership - RPM processor and attestation tool |
+|[leapp-repository](https://github.com/openela/leapp-repository)| LEAPP repository - actors for the Leapp framework. |
+
 
 ## Important Information
 
